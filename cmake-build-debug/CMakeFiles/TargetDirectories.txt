@@ -1,0 +1,3 @@
+C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/cmake-build-debug/CMakeFiles/CppWorkshop.dir
+C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/cmake-build-debug/CMakeFiles/rebuild_cache.dir

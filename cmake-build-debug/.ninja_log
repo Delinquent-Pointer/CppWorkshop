@@ -1,0 +1,6 @@
+# ninja log v5
+5	182	7259042199212433	CMakeFiles/CppWorkshop.dir/src/Pokemon.cpp.obj	cf03ba8506b574d
+2	178	7260169840839117	CMakeFiles/CppWorkshop.dir/src/main.cpp.obj	475674ed3527207a
+179	393	7260169842956022	CppWorkshop.exe	20adc976642f599b
+0	135	7265370650724478	build.ninja	2939a57d7768a316
+17	1280	7260169081546688	CMakeFiles/CppWorkshop.dir/src/Basics.cpp.obj	114b5d19a8f6f845
