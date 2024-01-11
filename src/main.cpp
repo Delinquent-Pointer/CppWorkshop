@@ -48,5 +48,5 @@ int main (int argc, char* argv[]) {
 void myFirstProgram(){
   // uncommon the necessary code to make it run Clion building debugger helps!
   // write something you like Hello World!
-  cout << "Hello World!" << endl;
+  cout << "Hello World?" << endl;
 }
