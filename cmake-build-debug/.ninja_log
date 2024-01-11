@@ -4,3 +4,7 @@
 179	393	7260169842956022	CppWorkshop.exe	20adc976642f599b
 0	135	7265370650724478	build.ninja	2939a57d7768a316
 17	1280	7260169081546688	CMakeFiles/CppWorkshop.dir/src/Basics.cpp.obj	114b5d19a8f6f845
+7	128	7266958489032104	CMakeFiles/CppWorkshop.dir/src/Pokemon.cpp.obj	a638d10eb44d19cc
+2	248	7266958490227226	CMakeFiles/CppWorkshop.dir/src/main.cpp.obj	3d40a864e4c058ca
+10	255	7266958490297334	CMakeFiles/CppWorkshop.dir/src/Basics.cpp.obj	ae1fb57518ca8cdb
+256	490	7266958492623171	CppWorkshop.exe	20adc976642f599b
