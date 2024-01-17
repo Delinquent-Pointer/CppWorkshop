@@ -52,42 +52,42 @@ build cmake_object_order_depends_target_CppWorkshop: phony || CMakeFiles/CppWork
 build CMakeFiles/CppWorkshop.dir/src/_WorkshopMain.cpp.obj: CXX_COMPILER__CppWorkshop_unscanned_Debug C$:/Users/apert/Documents/EWU/ACM$ Club/CppWorkshop/src/_WorkshopMain.cpp || cmake_object_order_depends_target_CppWorkshop
   DEP_FILE = CMakeFiles\CppWorkshop.dir\src\_WorkshopMain.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  INCLUDES = -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/." -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/bin" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/data" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/inc" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/lib" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/src" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/tests"
+  INCLUDES = -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/." -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/bin" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/data" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/inc" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/lib" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/src" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/test"
   OBJECT_DIR = CMakeFiles\CppWorkshop.dir
   OBJECT_FILE_DIR = CMakeFiles\CppWorkshop.dir\src
 
 build CMakeFiles/CppWorkshop.dir/src/Pokemon.cpp.obj: CXX_COMPILER__CppWorkshop_unscanned_Debug C$:/Users/apert/Documents/EWU/ACM$ Club/CppWorkshop/src/Pokemon.cpp || cmake_object_order_depends_target_CppWorkshop
   DEP_FILE = CMakeFiles\CppWorkshop.dir\src\Pokemon.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  INCLUDES = -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/." -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/bin" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/data" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/inc" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/lib" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/src" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/tests"
+  INCLUDES = -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/." -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/bin" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/data" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/inc" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/lib" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/src" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/test"
   OBJECT_DIR = CMakeFiles\CppWorkshop.dir
   OBJECT_FILE_DIR = CMakeFiles\CppWorkshop.dir\src
 
 build CMakeFiles/CppWorkshop.dir/src/Basics.cpp.obj: CXX_COMPILER__CppWorkshop_unscanned_Debug C$:/Users/apert/Documents/EWU/ACM$ Club/CppWorkshop/src/Basics.cpp || cmake_object_order_depends_target_CppWorkshop
   DEP_FILE = CMakeFiles\CppWorkshop.dir\src\Basics.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  INCLUDES = -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/." -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/bin" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/data" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/inc" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/lib" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/src" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/tests"
+  INCLUDES = -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/." -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/bin" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/data" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/inc" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/lib" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/src" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/test"
   OBJECT_DIR = CMakeFiles\CppWorkshop.dir
   OBJECT_FILE_DIR = CMakeFiles\CppWorkshop.dir\src
 
 build CMakeFiles/CppWorkshop.dir/src/List.cpp.obj: CXX_COMPILER__CppWorkshop_unscanned_Debug C$:/Users/apert/Documents/EWU/ACM$ Club/CppWorkshop/src/List.cpp || cmake_object_order_depends_target_CppWorkshop
   DEP_FILE = CMakeFiles\CppWorkshop.dir\src\List.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  INCLUDES = -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/." -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/bin" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/data" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/inc" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/lib" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/src" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/tests"
+  INCLUDES = -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/." -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/bin" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/data" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/inc" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/lib" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/src" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/test"
   OBJECT_DIR = CMakeFiles\CppWorkshop.dir
   OBJECT_FILE_DIR = CMakeFiles\CppWorkshop.dir\src
 
 build CMakeFiles/CppWorkshop.dir/src/ArrayList.cpp.obj: CXX_COMPILER__CppWorkshop_unscanned_Debug C$:/Users/apert/Documents/EWU/ACM$ Club/CppWorkshop/src/ArrayList.cpp || cmake_object_order_depends_target_CppWorkshop
   DEP_FILE = CMakeFiles\CppWorkshop.dir\src\ArrayList.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  INCLUDES = -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/." -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/bin" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/data" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/inc" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/lib" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/src" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/tests"
+  INCLUDES = -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/." -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/bin" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/data" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/inc" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/lib" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/src" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/test"
   OBJECT_DIR = CMakeFiles\CppWorkshop.dir
   OBJECT_FILE_DIR = CMakeFiles\CppWorkshop.dir\src
 
 build CMakeFiles/CppWorkshop.dir/src/Stack.cpp.obj: CXX_COMPILER__CppWorkshop_unscanned_Debug C$:/Users/apert/Documents/EWU/ACM$ Club/CppWorkshop/src/Stack.cpp || cmake_object_order_depends_target_CppWorkshop
   DEP_FILE = CMakeFiles\CppWorkshop.dir\src\Stack.cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
-  INCLUDES = -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/." -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/bin" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/data" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/inc" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/lib" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/src" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/tests"
+  INCLUDES = -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/." -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/bin" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/data" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/inc" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/lib" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/src" -I"C:/Users/apert/Documents/EWU/ACM Club/CppWorkshop/test"
   OBJECT_DIR = CMakeFiles\CppWorkshop.dir
   OBJECT_FILE_DIR = CMakeFiles\CppWorkshop.dir\src
 

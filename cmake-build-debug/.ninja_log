@@ -1,14 +1,12 @@
 # ninja log v5
-5	46	7271706153337234	CMakeFiles/CppWorkshop.dir/src/Pokemon.cpp.obj	11524165b259b17
-3	451	7271706157387285	CMakeFiles/CppWorkshop.dir/src/Stack.cpp.obj	725e44f9a4e6eeb1
-542	606	7271706158921132	CppWorkshop.exe	6ab2b5adca0bbde2
+14	476	7271717073595510	CMakeFiles/CppWorkshop.dir/src/Stack.cpp.obj	519c9c63d44dd779
+2	50	7271717069324128	CMakeFiles/CppWorkshop.dir/src/Pokemon.cpp.obj	b495e1ea44afc698
+5	471	7271717073535528	CMakeFiles/CppWorkshop.dir/src/ArrayList.cpp.obj	2824293287c9da89
 3	67	7271702663519191	CMakeFiles/CppWorkshop.dir/src/main.cpp.obj	3d40a864e4c058ca
-1	456	7271706157427287	CMakeFiles/CppWorkshop.dir/src/ArrayList.cpp.obj	f92218f95b678ec0
-1	135	7271709350519275	build.ninja	316c8e48aad6263f
+578	668	7271717075491340	CppWorkshop.exe	6ab2b5adca0bbde2
+1	142	7272049276597921	build.ninja	316c8e48aad6263f
 1	263	7271704042491682	CMakeFiles/CppWorkshop.dir/src/WorkshopMain.cpp.obj	1dd09b71c0d673c4
-10	429	7271706157157588	CMakeFiles/CppWorkshop.dir/src/Basics.cpp.obj	f48cd95e4eb842a3
-8	416	7271706157037143	CMakeFiles/CppWorkshop.dir/src/List.cpp.obj	e7395ee5573f43e2
+12	444	7271717073265519	CMakeFiles/CppWorkshop.dir/src/Basics.cpp.obj	15091969f02436b1
+7	427	7271717073104489	CMakeFiles/CppWorkshop.dir/src/List.cpp.obj	b9247630110e541b
 2	201	7271703089164507	CMakeFiles/CppWorkshop.dir/tests/main.cpp.obj	4d56d10ceada185f
-12	542	7271706158293535	CMakeFiles/CppWorkshop.dir/src/_WorkshopMain.cpp.obj	a2347b37bbc1b5c9
-1	335	7271709821626200	CMakeFiles/CppWorkshop.dir/src/_WorkshopMain.cpp.obj	a2347b37bbc1b5c9
-335	406	7271709822318439	CppWorkshop.exe	6ab2b5adca0bbde2
+9	578	7271717074606225	CMakeFiles/CppWorkshop.dir/src/_WorkshopMain.cpp.obj	8dcee38228d87a32

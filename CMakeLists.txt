@@ -9,7 +9,7 @@ include_directories(data)
 include_directories(inc)
 include_directories(lib)
 include_directories(src)
-include_directories(tests)
+include_directories(test)
 
 add_executable(CppWorkshop
         inc/Pokemon.h

@@ -58,6 +58,12 @@ int main (int argc, char* argv[]) {
   delete list1;
   delete list2;
 
+
+  auto x = 5;
+  auto y = 5.6;
+  auto z = x + y;
+  printf("%f\n",z);
+
   return 0;
 }
 
