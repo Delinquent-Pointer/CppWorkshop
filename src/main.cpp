@@ -15,6 +15,9 @@
 //#include <cmath>
 
 #include "Basics.h"
+#include "ArrayList.h"
+#include "Stack.h"
+
 
 #define BIGGER(x, y) (x > y ? x : y)
 
@@ -39,6 +42,18 @@ int main (int argc, char* argv[]) {
 
   // Demo 2 operators and control flows
 //  fillMyBottle();
+
+  // Example usage
+  List<int>* list1 = new ArrayList<int>();
+  list1->addElement(42);
+  list1->printList();  // Calls ArrayList-specific printList()
+
+  List<double>* list2 = new Stack<double>();
+  list2->push(3.14);
+  list2->printList();  // Calls Stack-specific printList()
+
+  delete list1;
+  delete list2;
 
   return 0;
 }

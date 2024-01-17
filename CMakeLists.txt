@@ -17,4 +17,10 @@ add_executable(CppWorkshop
         src/Pokemon.cpp
         inc/Basics.h
         src/Basics.cpp
+        src/List.cpp
+        inc/List.h
+        src/ArrayList.cpp
+        inc/ArrayList.h
+        src/Stack.cpp
+        inc/Stack.h
 )
