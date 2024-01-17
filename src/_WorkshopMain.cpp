@@ -45,7 +45,7 @@ int main (int argc, char* argv[]) {
 //  fillMyBottle();
 
   // Example usage
-  ArrayList<int>* list1 = new ArrayList<int>();
+  auto* list1 = new ArrayList<int>();
   list1->addElement(42);
   list1->addElement(24);
   list1->printList();  // Calls ArrayList-specific printList()
