@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.27)
 project(CppWorkshop)
 
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 23)
 
 include_directories(.)
 include_directories(bin)
@@ -13,7 +13,7 @@ include_directories(tests)
 
 add_executable(CppWorkshop
         inc/Pokemon.h
-        src/main.cpp
+        src/_WorkshopMain.cpp
         src/Pokemon.cpp
         inc/Basics.h
         src/Basics.cpp

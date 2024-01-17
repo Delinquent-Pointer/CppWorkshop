@@ -17,6 +17,7 @@
 #include "Basics.h"
 #include "ArrayList.h"
 #include "Stack.h"
+#include "List.h"
 
 
 #define BIGGER(x, y) (x > y ? x : y)
@@ -44,11 +45,13 @@ int main (int argc, char* argv[]) {
 //  fillMyBottle();
 
   // Example usage
-  List<int>* list1 = new ArrayList<int>();
+  ArrayList<int>* list1 = new ArrayList<int>();
   list1->addElement(42);
+  list1->addElement(24);
   list1->printList();  // Calls ArrayList-specific printList()
 
-  List<double>* list2 = new Stack<double>();
+  // Example usage with double
+  Stack<double>* list2 = new Stack<double>();
   list2->push(3.14);
   list2->printList();  // Calls Stack-specific printList()
 
