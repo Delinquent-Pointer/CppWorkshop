@@ -23,4 +23,5 @@ add_executable(CppWorkshop
         inc/ArrayList.h
         src/Stack.cpp
         inc/Stack.h
+        inc/Graphics.h
 )

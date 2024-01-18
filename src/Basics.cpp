@@ -45,13 +45,3 @@ void variables() {
 void variables(bool tryMe) {
   // Let's write some code!
 }
-
-// Demo 2 operators and control flows
-void fillMyBottle(){
-  std::cout << "Let's play fill my bottle (bottle size = 24 oz)" << std::endl;
-  float liquid = 0, bottleSize = 24 , percentageFilled = 0, spilled = 0;
-  while (liquid <= bottleSize){
-
-  }
-  std::cout << "It spilled about " << "" << std::endl;
-}

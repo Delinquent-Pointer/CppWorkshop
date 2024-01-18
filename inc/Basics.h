@@ -19,7 +19,4 @@ void variables ();
 // TO-DO Try-ME
 void variables (bool tryMe);
 
-// Demo 2 operators and control flows
-void fillMyBottle();
-
 #endif //CPPWORKSHOP_BASICS_H

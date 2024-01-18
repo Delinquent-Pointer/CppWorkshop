@@ -41,9 +41,6 @@ int main (int argc, char* argv[]) {
 //  variables();
 //  variables(true);
 
-  // Demo 2 operators and control flows
-//  fillMyBottle();
-
   // Example usage
   auto* list1 = new ArrayList<int>();
   list1->addElement(42);
@@ -62,7 +59,7 @@ int main (int argc, char* argv[]) {
   auto x = 5;
   auto y = 5.6;
   auto z = x + y;
-  printf("%f\n",z);
+  printf("%f\n",z); // C language being used here
 
   return 0;
 }
