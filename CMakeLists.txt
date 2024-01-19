@@ -14,14 +14,10 @@ include_directories(test)
 add_executable(CppWorkshop
         inc/Pokemon.h
         src/_WorkshopMain.cpp
-        src/Pokemon.cpp
         inc/Basics.h
         src/Basics.cpp
-        src/List.cpp
         inc/List.h
-        src/ArrayList.cpp
         inc/ArrayList.h
-        src/Stack.cpp
         inc/Stack.h
         inc/Graphics.h
 )
